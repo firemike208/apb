@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Test Script
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  test script
 // @match        https://newtrier.instructure.com/courses/1869257/grades
-// @updateURL   https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
-// @downloadURL https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
+
+// 🔴 IMPORTANT: use RAW WITHOUT redirects
+// @updateURL    https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
 
 // @grant        none
 // ==/UserScript==
