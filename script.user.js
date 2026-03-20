@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Test Script
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  test script
 // @match        https://newtrier.instructure.com/courses/1869257/grades
 // @updateURL   https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
