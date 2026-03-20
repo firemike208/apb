@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  test script
 // @match        https://newtrier.instructure.com/courses/1869257/grades
-/// @updateURL   https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
-/// @downloadURL https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
+// @updateURL   https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
+// @downloadURL https://raw.githubusercontent.com/firemike208/tampermonkey-scripts/main/script.user.js
 
 // @grant        none
 // ==/UserScript==
